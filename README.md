@@ -207,39 +207,38 @@ My projects explore practical software engineering, intelligent applications, ac
 <div align="center">
 
   <a href="https://github.com/chanikyagunji">
-    <img src="https://github-readme-stats.vercel.app/api?username=chanikyagunji&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" height="165" alt="GitHub profile statistics"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=chanikyagunji&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" height="165" alt="GitHub Profile Statistics" />
   </a>
+
   <a href="https://github.com/chanikyagunji">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanikyagunji&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165" alt="Most-used programming languages"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chanikyagunji&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165" alt="Most Used Programming Languages" />
   </a>
 
 </div>
 
 <div align="center">
 
-  <a href="https://streak-stats.demolab.com/?user=chanikyagunji&theme=tokyonight&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=chanikyagunji&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=chanikyagunji&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
+### Explore My GitHub Activity
+
 <div align="center">
 
-  <a href="https://github.com/chanikyagunji">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanikyagunji&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-  </a>
+  <a href="https://github.com/chanikyagunji?tab=repositories">📁 All Repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/chanikyagunji?tab=overview">👨‍💻 Profile Overview</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/chanikyagunji?tab=contributions">📈 Contribution History</a>
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/chanikyagunji?tab=repositories">All repositories</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/chanikyagunji?tab=overview">Profile overview</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/chanikyagunji?tab=contributions">Contribution history</a>
+  <i>Learning consistently, solving problems, and building better software.</i>
 </p>
 
-*Note: These visualizations use third-party services and may occasionally be unavailable. Language percentages reflect detected repository code, not necessarily overall proficiency. Statistics and contribution streaks can vary by service.*
+
 
 ## 05 · Current Learning Roadmap
 
