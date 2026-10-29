@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:7C3AED&height=210&section=header&text=CHANIKYA%20GUNJI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Clouddata%20Engineering&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Chanikya Gunji — Software Engineering, Full-Stack Development and Cloud data engineering" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:7C3AED&height=210&section=header&text=CHANIKYA%20GUNJI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Cloud-data%20Engineering&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Chanikya Gunji — Software Engineering, Full-Stack Development and Cloud data engineering" />
 
   <h3>Building software with purpose. Engineering solutions that matter.</h3>
 
